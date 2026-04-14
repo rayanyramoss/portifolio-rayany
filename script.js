@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 1d94b8e1ea93e725e5e1fd3514b470cb42c5dfe6
 document.addEventListener("DOMContentLoaded", function() {
     const modal = document.getElementById("modalCertificado");
     const modalImg = document.getElementById("imgCertificado");
